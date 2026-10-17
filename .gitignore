@@ -1,0 +1,13 @@
+vendor/
+.venv/
+venv/
+__pycache__/
+*.pyc
+runtime.json
+plugin/secret.js
+dist/
+tmp/
+*.log
+*.jsonl
+.env
+.env.*
